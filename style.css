@@ -24,7 +24,7 @@ section{padding:68px 0}.band{background:var(--soft)}
 .hero .wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center;padding-top:56px;padding-bottom:64px}
 .cta{display:flex;gap:12px;flex-wrap:wrap}
 .arch{aspect-ratio:3/4;border-radius:999px 999px 24px 24px;max-width:380px;width:100%;justify-self:center;
-background:url(../images/hero.jpg) center/cover,linear-gradient(180deg,#F6A8A0,#E96F8E 45%,#7A2F6B)}
+background:url(images/hero.jpg) center/cover,linear-gradient(180deg,#F6A8A0,#E96F8E 45%,#7A2F6B)}
 .pagehead{padding:56px 0 8px}.pagehead h1{font-size:clamp(38px,6vw,64px)}
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:26px}
